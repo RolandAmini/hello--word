@@ -44,7 +44,6 @@ For more information on the importance of a professional README for your reposit
 - [📖 \[hello-Microverse project\] ](#-hello-microverse-project-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
-    - [Key Features ](#key-features-)
   - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
@@ -70,37 +69,32 @@ For more information on the importance of a professional README for your reposit
 
 ### Tech Stack <a name="tech-stack"></a>
 
-html css and linters
+the following 
 
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="#">html</a></li>
+     <li><a href="#">css</a></li>
+      <li><a href="#">linters</a></li>
   </ul>
 </details>
 
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li><a href="https://expressjs.com/">no</a></li>
   </ul>
 </details>
 
 <details>
 <summary>Database</summary>
   <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="https://www.postgresql.org/">no</a></li>
   </ul>
 </details>
 
 
-### Key Features <a name="key-features"></a>
-
-
-
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -177,9 +171,8 @@ You can deploy this project using:
 
 
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[display hello microverse]**
+  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
