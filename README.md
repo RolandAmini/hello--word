@@ -41,7 +41,7 @@ For more information on the importance of a professional README for your reposit
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[hello-word project\] ](#-hello-word-project-)
+- [📖 \[hello-Microverse project\] ](#-hello-microverse-project-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -62,7 +62,7 @@ For more information on the importance of a professional README for your reposit
 
 
 
-# 📖 [hello-word project] <a name="about-project"></a>
+# 📖 [hello-Microverse project] <a name="about-project"></a>
 
 > hello microverse it's a project that aim to give an over view about intagret linters eurre 
 
