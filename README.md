@@ -104,7 +104,7 @@ the following
 
 
 
-- [Live Demo Link](https://google.com)
+- [coming soon]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -192,7 +192,7 @@ Feel free to check the [issues page](../../issues/).
 
 
 
-If you like this project...
+If you like this project give it a star
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
