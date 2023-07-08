@@ -164,6 +164,6 @@ I would like to thank Microverse for the opportunity to work on this project.
 
 ## 📝 License <a name="license"></a>
 
-This project is [ MIT LICENSE](https://github.com/RolandAmini/hello--word/blob/dev/MIT.md) licensed.
+This project is [ MIT](https://github.com/RolandAmini/hello--word/blob/dev/MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
